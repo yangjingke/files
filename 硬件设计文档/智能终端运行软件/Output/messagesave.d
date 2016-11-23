@@ -1,0 +1,30 @@
+..\Output\messagesave.o: MessageSave.c
+..\Output\messagesave.o: MessageSave.h
+..\Output\messagesave.o: ..\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h
+..\Output\messagesave.o: ..\Libraries\CMSIS\CM3\CoreSupport\core_cm3.h
+..\Output\messagesave.o: D:\Program Files (x86)\Keil\ARM\RV31\INC\stdint.h
+..\Output\messagesave.o: ..\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h
+..\Output\messagesave.o: ..\Project\stm32f10x_conf.h
+..\Output\messagesave.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h
+..\Output\messagesave.o: ..\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h
+..\Output\messagesave.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_can.h
+..\Output\messagesave.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dma.h
+..\Output\messagesave.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h
+..\Output\messagesave.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_i2c.h
+..\Output\messagesave.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h
+..\Output\messagesave.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_spi.h
+..\Output\messagesave.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h
+..\Output\messagesave.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h
+..\Output\messagesave.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h
+..\Output\messagesave.o: protocal.h
+..\Output\messagesave.o: D:\Program Files (x86)\Keil\ARM\RV31\INC\stdlib.h
+..\Output\messagesave.o: ds1302.h
+..\Output\messagesave.o: Sampling.H
+..\Output\messagesave.o: protocal.h
+..\Output\messagesave.o: WIN_24C02.h
+..\Output\messagesave.o: SystemBody.h
+..\Output\messagesave.o: WIN_24C02.h
+..\Output\messagesave.o: SZ_SPI_FLASH.h
+..\Output\messagesave.o: MessageSave.h
+..\Output\messagesave.o: USART.H
+..\Output\messagesave.o: Usart1Deal.H

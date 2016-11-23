@@ -1,0 +1,30 @@
+..\Output\sampling.o: Sampling.c
+..\Output\sampling.o: Sampling.H
+..\Output\sampling.o: ..\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h
+..\Output\sampling.o: ..\Libraries\CMSIS\CM3\CoreSupport\core_cm3.h
+..\Output\sampling.o: D:\Program Files (x86)\Keil\ARM\RV31\INC\stdint.h
+..\Output\sampling.o: ..\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h
+..\Output\sampling.o: ..\Project\stm32f10x_conf.h
+..\Output\sampling.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h
+..\Output\sampling.o: ..\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h
+..\Output\sampling.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_can.h
+..\Output\sampling.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dma.h
+..\Output\sampling.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h
+..\Output\sampling.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_i2c.h
+..\Output\sampling.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h
+..\Output\sampling.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_spi.h
+..\Output\sampling.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h
+..\Output\sampling.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h
+..\Output\sampling.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h
+..\Output\sampling.o: protocal.h
+..\Output\sampling.o: D:\Program Files (x86)\Keil\ARM\RV31\INC\stdlib.h
+..\Output\sampling.o: ds1302.h
+..\Output\sampling.o: Sampling.H
+..\Output\sampling.o: WIN_24C02.h
+..\Output\sampling.o: SystemBody.h
+..\Output\sampling.o: WIN_24C02.h
+..\Output\sampling.o: SZ_SPI_FLASH.h
+..\Output\sampling.o: MessageSave.h
+..\Output\sampling.o: USART.H
+..\Output\sampling.o: MessageSave.h
+..\Output\sampling.o: Usart1Deal.H

@@ -1,0 +1,32 @@
+..\Output\usart1deal.o: Usart1Deal.c
+..\Output\usart1deal.o: Usart1Deal.H
+..\Output\usart1deal.o: ..\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h
+..\Output\usart1deal.o: ..\Libraries\CMSIS\CM3\CoreSupport\core_cm3.h
+..\Output\usart1deal.o: D:\Program Files (x86)\Keil\ARM\RV31\INC\stdint.h
+..\Output\usart1deal.o: ..\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h
+..\Output\usart1deal.o: ..\Project\stm32f10x_conf.h
+..\Output\usart1deal.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h
+..\Output\usart1deal.o: ..\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h
+..\Output\usart1deal.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_can.h
+..\Output\usart1deal.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dma.h
+..\Output\usart1deal.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h
+..\Output\usart1deal.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_i2c.h
+..\Output\usart1deal.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h
+..\Output\usart1deal.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_spi.h
+..\Output\usart1deal.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h
+..\Output\usart1deal.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h
+..\Output\usart1deal.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h
+..\Output\usart1deal.o: protocal.h
+..\Output\usart1deal.o: D:\Program Files (x86)\Keil\ARM\RV31\INC\stdlib.h
+..\Output\usart1deal.o: ds1302.h
+..\Output\usart1deal.o: Sampling.H
+..\Output\usart1deal.o: protocal.h
+..\Output\usart1deal.o: USART.H
+..\Output\usart1deal.o: MessageSave.h
+..\Output\usart1deal.o: WIN_24C02.h
+..\Output\usart1deal.o: SystemBody.h
+..\Output\usart1deal.o: WIN_24C02.h
+..\Output\usart1deal.o: SZ_SPI_FLASH.h
+..\Output\usart1deal.o: MessageSave.h
+..\Output\usart1deal.o: USART.H
+..\Output\usart1deal.o: Usart1Deal.H
